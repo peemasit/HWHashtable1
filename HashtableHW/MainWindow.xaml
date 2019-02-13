@@ -1,0 +1,17 @@
+﻿<Window x:Class="HashtableHW.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HashtableHW"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="addBtn" Content="Add" HorizontalAlignment="Left" Height="50" Margin="128,248,0,0" VerticalAlignment="Top" Width="126" Click="AddBtn_Click"/>
+        <Button x:Name="removeBtn" Content="Remove" HorizontalAlignment="Left" Height="50" Margin="297,248,0,0" VerticalAlignment="Top" Width="126" Click="RemoveBtn_Click"/>
+        <Button x:Name="showBtn" Content="Show" HorizontalAlignment="Left" Height="50" Margin="481,248,0,0" VerticalAlignment="Top" Width="126" Click="ShowBtn_Click"/>
+        <TextBox x:Name="valueTxt" HorizontalAlignment="Left" Height="50" Margin="128,181,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="479"/>
+        <TextBox x:Name="keyTxt" HorizontalAlignment="Left" Height="50" Margin="128,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="479"/>
+
+    </Grid>
+</Window>

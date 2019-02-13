@@ -1,0 +1,15 @@
+C:\Users\peema\source\repos\HashtableHW\HashtableHW\bin\Debug\HashtableHW.exe.config
+C:\Users\peema\source\repos\HashtableHW\HashtableHW\bin\Debug\HashtableHW.exe
+C:\Users\peema\source\repos\HashtableHW\HashtableHW\bin\Debug\HashtableHW.pdb
+C:\Users\peema\source\repos\HashtableHW\HashtableHW\obj\Debug\HashtableHW.csprojAssemblyReference.cache
+C:\Users\peema\source\repos\HashtableHW\HashtableHW\obj\Debug\MainWindow.g.cs
+C:\Users\peema\source\repos\HashtableHW\HashtableHW\obj\Debug\App.g.cs
+C:\Users\peema\source\repos\HashtableHW\HashtableHW\obj\Debug\HashtableHW_MarkupCompile.cache
+C:\Users\peema\source\repos\HashtableHW\HashtableHW\obj\Debug\HashtableHW_MarkupCompile.lref
+C:\Users\peema\source\repos\HashtableHW\HashtableHW\obj\Debug\MainWindow.baml
+C:\Users\peema\source\repos\HashtableHW\HashtableHW\obj\Debug\HashtableHW.g.resources
+C:\Users\peema\source\repos\HashtableHW\HashtableHW\obj\Debug\HashtableHW.Properties.Resources.resources
+C:\Users\peema\source\repos\HashtableHW\HashtableHW\obj\Debug\HashtableHW.csproj.GenerateResource.cache
+C:\Users\peema\source\repos\HashtableHW\HashtableHW\obj\Debug\HashtableHW.csproj.CoreCompileInputs.cache
+C:\Users\peema\source\repos\HashtableHW\HashtableHW\obj\Debug\HashtableHW.exe
+C:\Users\peema\source\repos\HashtableHW\HashtableHW\obj\Debug\HashtableHW.pdb
